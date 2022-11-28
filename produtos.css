@@ -26,6 +26,10 @@ nav li {
 	margin: 0 0 0 15px;
 }
 
+nav li a:hover{
+	color:darkorchid;
+}
+
 nav a {
 	text-transform: uppercase;
 	color: #000000;
