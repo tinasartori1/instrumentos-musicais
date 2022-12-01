@@ -1,18 +1,18 @@
 body {
-    background: #CCCCCC
+     background: #CCCCCC
 }
- 
+  
 p{
-    text-align: center;
+     text-align: center;
 }
 
 strong {
-    color: hotpink;
+     color: hotpink;
 }
 
 .imagembateria {
-    width: 50%;
+     width: 50%;
 }
 .imagemviolino {
-    width: 50%;
+     width: 50%;
 }

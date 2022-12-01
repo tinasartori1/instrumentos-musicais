@@ -4,7 +4,7 @@ header{
 }
 
 header img {
-	max-width: 220px;
+	max-width: 200px;
 }
 .caixa {
 	position: relative;
@@ -21,7 +21,8 @@ nav {
 nav li {
 	display: inline;
 	margin: 0 0 0 15px;
-} 
+}
+
 nav a {
 	text-transform: uppercase;
 	color: #000000;
@@ -29,9 +30,8 @@ nav a {
 	font-size: 22px;
 	text-decoration: none;
 }
-
-nav li a:hover{
-	color:#993399;
+nav a:hover {
+	color: #993399;
 	text-decoration: underline;
 }
 
@@ -56,11 +56,11 @@ nav li a:hover{
 }
 
 .produtos li:hover {
-	border-color: hsl(342, 75%, 46%);
+	border-color: #FFCBDB;
 }
 
 .produtos li:active {
-	border-color: #FFCBDB ;
+	/*border-color: # ;*/
 }
 
 .produtos h2 {
