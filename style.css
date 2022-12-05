@@ -1,5 +1,7 @@
-body {
-     background: #CCCCCC
+h4 {
+     font-size: 20px;
+     text-align: center;
+}
 }
   
 p{
@@ -13,6 +15,11 @@ strong {
 .imagembateria {
      width: 50%;
 }
+
+li {
+     font-size: 20px;
+}
+
 .imagemviolino {
      width: 50%;
 }
