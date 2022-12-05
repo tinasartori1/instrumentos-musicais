@@ -1,6 +1,20 @@
-h4 {
-     font-size: 20px;
-     text-align: center;
+ title {
+     
+ }
+
+ h4 {
+    font-size: 20px;
+    text-align: center;
+     display: inline-block;
+     width: 90%;
+     vertical-align: top;
+     margin: 0 1.5%;
+     padding: 30px 20px;
+     box-sizing: border-box;
+     border-color: #000000;
+     border-width: 2px;
+     border-style: solid;
+     border-radius: 10px;
 }
   
 p{
@@ -11,14 +25,34 @@ strong {
      color: hotpink;
 }
 
+
 .imagembateria {
-     width: 50%;
+     width: 30%;
 }
 
-li {
-     font-size: 20px;
+.imagembateria2 {
+     width: 25%;
 }
 
 .imagemviolino {
+     width: 30%;
+}
+
+.imagemviolino2 {
      width: 50%;
+     vertical-align: top;
+}
+
+.anotacao {
+     font-size: 20px;
+      display: inline-block;
+     width: 25%;
+     vertical-align: top;
+     margin: 0 1.5%;
+     padding: 30px 20px;
+     box-sizing: border-box;
+     border-color: #000000;
+     border-width: 2px;
+     border-style: solid;
+     border-radius: 10px;
 }

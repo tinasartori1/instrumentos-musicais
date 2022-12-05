@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border-color: #000000;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.whats {
+    width: 10%;
+}
+
+.insta {
+    width: 10%;
+}
+
+.email {
+    width: 15%;
+}
+
+.cartao {
+    width: 20%;
+}
+
+.pix {
+    width: 20%;
+}
+
+.dinheiro {
+    width: 20%;
+}
