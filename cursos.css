@@ -1,0 +1,44 @@
+.title {
+   text-align: center;
+}
+
+.cursos li {
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	padding: 30px 20px;
+	box-sizing: border-box;
+	border-color: #000000;
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 10px;
+}
+.cursos li:hover {
+	border-color: #FFCBDB;
+}
+
+.cursos li:active {
+	/*border-color: # ;*/
+	border-color: #A0E03A;
+}
+
+.cursos h2 {
+	/*Define o tamanho da fonte*/
+	font-size: 30px;	
+}
+
+.cursos li img {
+	max-width: 220px;
+}
+
+.cursos-descrição {
+	font-size: 18px;
+}
+
+.cursos-preço {
+	font-size: 22px;
+	font-weight: bold;
+	margin: 10px 0 0;
+}

@@ -1,5 +1,5 @@
 header{
-   background:#BBBBBB;
+   background-color:#BBBBBB;
    padding: 20px 0;
 }
 
@@ -38,7 +38,7 @@ nav a:hover {
 .produtos {
 	width: 940px;
 	margin: 0 auto;
-   padding: 50px;
+    padding: 50px;
 }
 
 .produtos li {
@@ -60,14 +60,16 @@ nav a:hover {
 }
 
 .produtos li:active {
-	/*border-color: # ;*/
+	border-color: #a0e03a;
 }
 
 .produtos h2 {
-	font-size: 30px;
-	font-weight: bold;
+	font-size: 30px;	
 }
 
+.produtos li img {
+	max-width:200px;
+}
 .produtos-descrição {
 	font-size: 18px;
 }
@@ -76,4 +78,19 @@ nav a:hover {
 	font-size: 22px;
 	font-weight: bold;
 	margin: 10px 0 0;
+}
+
+footer {
+	text-align: center;
+	background: #CCCCCC;
+
+}
+footer img {
+	max-width: 200px;
+}
+
+.copyright {
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 20px 0 0;
 }
