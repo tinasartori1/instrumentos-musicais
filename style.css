@@ -2,13 +2,14 @@
      
  }
 
- h4 {
+
+ .conteudo {
     font-size: 20px;
     text-align: center;
      display: inline-block;
      width: 90%;
      vertical-align: top;
-     margin: 0 1.5%;
+     margin: 0 5%;
      padding: 30px 20px;
      box-sizing: border-box;
      border-color: #000000;
@@ -16,43 +17,35 @@
      border-style: solid;
      border-radius: 10px;
 }
-  
-p{
-     text-align: center;
+
+.pink{
+   color: hotpink;
+   text-align: center;
 }
 
-strong {
-     color: hotpink;
+.organizacaoImagem {
+     width: 90%;
+     display: flex;
+     justify-content: space-between;
+     margin: 10px auto;
 }
 
-
-.imagembateria {
-     width: 30%;
-}
-
-.imagembateria2 {
-     width: 25%;
-}
-
-.imagemviolino {
-     width: 30%;
-}
-
-.imagemviolino2 {
-     width: 50%;
-     vertical-align: top;
+.organizacaoImagem img {
+     max-width: 600px;
+     height: auto;
 }
 
 .anotacao {
      font-size: 20px;
-      display: inline-block;
-     width: 25%;
+     text-align: center;
+     display: inline-block;
+     width: 40%;
      vertical-align: top;
-     margin: 0 1.5%;
+     margin: 0 30%;
      padding: 30px 20px;
      box-sizing: border-box;
      border-color: #000000;
      border-width: 2px;
      border-style: solid;
-     border-radius: 10px;
+     border-radius: 15px;
 }
